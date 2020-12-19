@@ -1,5 +1,7 @@
 # iDetector
-iDetector uses the site of downdetector.com for checking the availability of sites, apps or services. 
+iDetector uses the site of downdetector.com for checking the availability of sites, apps or services.
+
+Note: this project is the predecessor of [idetector-app](https://www.github.com/alombi/idetector-app), which has the same purposes but is built with different technologies so it has a graphical UI. If you are here you may want to check it out.
 
 iDetector is available for iOS, iPadOS and deskotp.
 
